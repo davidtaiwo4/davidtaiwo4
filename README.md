@@ -66,7 +66,7 @@ Key Skills:
 - Query writing  
 - Alert configuration  
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/davidtaiwo4/Log-Monitoring-Threat-Detection/blob/main/README.md)
 
 ---
 
